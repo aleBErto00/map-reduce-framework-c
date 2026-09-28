@@ -1,0 +1,15 @@
+# Binari e file oggetto
+*.o
+*.out
+bin/
+build/
+
+# Eseguibili specifici degli esempi o test
+word_count
+test_mr
+print_output
+
+# File temporanei e di sistema
+.DS_Store
+*.swp
+.vscode/

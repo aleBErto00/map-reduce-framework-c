@@ -1,0 +1,19 @@
+Struttura del Framework MapReduce C11.
+
+Compilazione:
+$ make
+
+Esecuzione dei test automatici ordinati:
+$ make test
+
+Pulizia file intermedi:
+$ make clean
+
+Lettura dell'output binario in forma leggibile:
+$ ./examples/print_output output.mro
+
+Visualizzazione File di Log:
+$ cat esecuzione.log
+
+Visualizzazione File di statistiche
+$ cat mr_stats.txt
